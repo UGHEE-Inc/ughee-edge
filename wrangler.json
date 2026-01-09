@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "ughee-edge",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "a1ef9d60-2863-4b10-89cf-855c0503f45f",
+			"database_name": "ughee-edge-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
